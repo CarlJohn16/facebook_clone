@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.child-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.logo img {
+    width: 270px;
+    margin-right: 20px;
+}
+.text-logo h1 {
+  
+ margin-top: 0;
+ width: 450px; 
+ font-weight: 400; 
+ font-size: 25px; 
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    
+}
